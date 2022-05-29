@@ -7,17 +7,8 @@ added by kc2
 <<<<<<< HEAD
 <<<<<<< HEAD
 added by vicstar
-=======
-
 added by ringo
 
-
-
-
-
-
-
-=======
 added by weihung_lai__123
 added by phoebe
 
